@@ -94,9 +94,29 @@
 
 ![linux server](https://user-images.githubusercontent.com/71564211/139773264-df44b901-bca6-4af0-a0b8-ec8c323480ed.JPG)
 
-# ALLOW TRAFFIC ON SPECIFIC IPADDRES
-
+# VERIFY IPTABLES FOR LINUX 
+## AZURE UBUNTU
 ![az-lsiptable](https://user-images.githubusercontent.com/71564211/139773440-79dd6ce1-ccbd-40c4-b4b9-4a0309f6e595.JPG)
 
+## CENTOS LOCAL 
+![iptables onR](https://user-images.githubusercontent.com/71564211/139773564-73f4f01f-b40d-4c7a-aa0e-c9769cac9dca.JPG)
 
+## AZURE CENTOS ROUTER 
+
+![az-fer ipt](https://user-images.githubusercontent.com/71564211/139773642-b98e12e8-5c7b-490b-96b8-f11bd7d75dc9.JPG)
+
+![azi-fer tnat](https://user-images.githubusercontent.com/71564211/139773651-9b4c8fb1-eaff-46fc-b6f0-5d506525b436.JPG)
+
+## UBUNTU LOCAL 
+![iptables onC](https://user-images.githubusercontent.com/71564211/139773687-9ab33312-2b60-45da-801b-711e9e25ebc5.JPG)
+
+# VERIFY FIREWALL FOR WINDOW
+![myftp](https://user-images.githubusercontent.com/71564211/139773769-d80ffe74-d1e6-4235-af57-ffe99f53b8ee.JPG)
+
+# ROUTING TABLE FOR CENTOS AZURE ROUTER 
+![iproute azfer21](https://user-images.githubusercontent.com/71564211/139773817-9fa05c5c-5489-4b9f-877e-918b2d348795.JPG)
+
+# ROUTING TABLE FOR CENTOS LOCAL
+
+![iproute](https://user-images.githubusercontent.com/71564211/139773965-114a2a3d-e850-463c-a02d-c79caf50e98c.JPG)
 
